@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // IMPORTANT: Replace 'coiffeurstyl' with your exact repository name if it differs
-  base: '/coiffeurstyl/',
+  base: "/coiffeurstyl/",
 });
