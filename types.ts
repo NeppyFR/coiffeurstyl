@@ -16,9 +16,3 @@ export interface Review {
   rating: number;
   text: string;
 }
-
-export interface StyleConsultationParams {
-  faceShape: string;
-  hairType: string;
-  personalStyle: string;
-}
